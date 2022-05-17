@@ -1,6 +1,6 @@
 package com.company;
 
-public class Wochentag {
+public class WochenTag {
 
     public static String findeWochentag(String datum){
         int tag = Integer.parseInt(datum.substring(0,2));

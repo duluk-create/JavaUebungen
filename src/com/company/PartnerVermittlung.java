@@ -1,6 +1,6 @@
 package com.company;
 
-public class Partnervermittlung {
+public class PartnerVermittlung {
 
     public static String interestsMatch(boolean[] personA, boolean[] personB){
 

@@ -4,7 +4,7 @@ import java.util.ArrayList;
 import java.util.Arrays;
 import java.util.Locale;
 
-public class Morsecode {
+public class MorseCode {
 
     public static String morseCode(String zeichenkette){
         String zeichen = zeichenkette.toLowerCase(Locale.ROOT).replace("[\s]", "");
