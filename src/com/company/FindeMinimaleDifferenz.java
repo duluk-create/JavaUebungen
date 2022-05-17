@@ -1,6 +1,6 @@
 package com.company;
 
-public class findeMinimaleDifferenz {
+public class FindeMinimaleDifferenz {
 
 
     public static String minDistanz(int[] arr) {

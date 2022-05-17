@@ -2,7 +2,7 @@ package com.company;
 
 import java.util.ArrayList;
 
-public class nameSplit {
+public class NameSplit {
 
     public static ArrayList nameSplit(String name){
         char[] arr = name.toCharArray();

@@ -1,6 +1,6 @@
 package com.company;
 
-public class rueckwaertsAusgabe {
+public class RueckwaertsAusgabe {
     public static String gebeRueckwaerts(String name){
         char[] arr =  name.toCharArray();
         char[] arr1 = new char[arr.length];
