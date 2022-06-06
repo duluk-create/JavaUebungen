@@ -19,6 +19,5 @@ public class SternAusgabe {
         }
 
         return output;
-
     }
 }
